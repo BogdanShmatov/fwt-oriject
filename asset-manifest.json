@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fwt-project/static/css/main.83b5dced.chunk.css",
+    "main.js": "/fwt-project/static/js/main.72bce760.chunk.js",
+    "main.js.map": "/fwt-project/static/js/main.72bce760.chunk.js.map",
+    "runtime-main.js": "/fwt-project/static/js/runtime-main.b0d5bfb5.js",
+    "runtime-main.js.map": "/fwt-project/static/js/runtime-main.b0d5bfb5.js.map",
+    "static/js/2.27a47fa8.chunk.js": "/fwt-project/static/js/2.27a47fa8.chunk.js",
+    "static/js/2.27a47fa8.chunk.js.map": "/fwt-project/static/js/2.27a47fa8.chunk.js.map",
+    "index.html": "/fwt-project/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/fwt-project/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.27a47fa8.chunk.js.LICENSE.txt": "/fwt-project/static/js/2.27a47fa8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0d5bfb5.js",
+    "static/js/2.27a47fa8.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.72bce760.chunk.js"
+  ]
+}
